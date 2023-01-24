@@ -41,10 +41,13 @@ namespace P1TwoSum
             
             //Print Results
             Console.Write("Result: ");
-            foreach (var i in ans)
+            Console.WriteLine(String.Join(" ", ans));//Connect elements of ans together with space in between into string and print
+
+            /*foreach (var i in ans)
             {
-                Console.Write("{0} ", i);
-            }
+                Console.Write("{0} ", i); //foreach loop to print 
+            }*/
+
             //Array.ForEach(ans, Console.Write); //Does not have space
 
         }
