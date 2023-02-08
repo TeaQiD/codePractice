@@ -117,6 +117,41 @@ struct LinkedList<T> {
         return currentIndex
     }
 }
+//MARK: Create Lists
+var list1 = LinkedList<Int>()
+var list2 = LinkedList<Int>()
+var data1 = [2,4,3]
+var data2 = [5,6,4]
+for i in data1{
+    print(i)
+    list1.append(i)
+}
+for i in data2{
+    print(i)
+    list2.append(i)
+}
+
+//get list1 size
+print("Size1:", list1.getCount())
+var length1 = list1.getCount()
+
+//get list2 size
+print("Size2:", list2.getCount())
+var length2 = list2.getCount()
+
+//print list1 values
+var vals = [Int]()
+for i in 0...length1 - 1{
+    vals.append(list1.node(at: i)!.value)
+}
+print(vals)
+
+//print list2 value
+vals = []
+for i in 0...length2 - 1{
+    vals.append(list2.node(at: i)!.value)
+}
+print(vals)
 
 
 
