@@ -1,0 +1,4 @@
+﻿  twosum.cpp
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\cplusplus\twosum\twosum.cpp(15,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\cplusplus\twosum\twosum.cpp(18,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  twosum.vcxproj -> C:\Users\10546\Desktop\codePractice\Practice\1. twosum\cplusplus\twosum\x64\Debug\twosum.exe

@@ -1,0 +1,15 @@
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\bin\Debug\net6.0\twosum.exe
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\bin\Debug\net6.0\twosum.deps.json
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\bin\Debug\net6.0\twosum.runtimeconfig.json
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\bin\Debug\net6.0\twosum.dll
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\bin\Debug\net6.0\twosum.pdb
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\obj\Debug\net6.0\twosum.csproj.AssemblyReference.cache
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\obj\Debug\net6.0\twosum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\obj\Debug\net6.0\twosum.AssemblyInfoInputs.cache
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\obj\Debug\net6.0\twosum.AssemblyInfo.cs
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\obj\Debug\net6.0\twosum.csproj.CoreCompileInputs.cache
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\obj\Debug\net6.0\twosum.dll
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\obj\Debug\net6.0\refint\twosum.dll
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\obj\Debug\net6.0\twosum.pdb
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\obj\Debug\net6.0\twosum.genruntimeconfig.cache
+C:\Users\10546\Desktop\codePractice\Practice\1. twosum\csharp\twosum\obj\Debug\net6.0\ref\twosum.dll
